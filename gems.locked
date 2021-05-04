@@ -1,0 +1,14 @@
+GEM
+  specs:
+    chuck_norris (0.1.0)
+    colorize (0.8.1)
+
+PLATFORMS
+  x64-mingw32
+
+DEPENDENCIES
+  chuck_norris (~> 0.1.0)
+  colorize (~> 0.8.1)
+
+BUNDLED WITH
+   2.2.16
